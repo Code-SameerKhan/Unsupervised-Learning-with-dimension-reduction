@@ -26,3 +26,6 @@ common clustering algorithms and also most cited in scientific literature.
 
 Gaussian Mixture Models (GMMs) assume that there are a certain number of Gaussian distributions, and each of these distributions represent a cluster. 
 Hence, a Gaussian Mixture Model tends to group the data points belonging to a single distribution together. Commonly used for anomaly detection.
+
+It considers each cluster as having a unique and its own gaussian distribution (Bell shaped curve) withs its own statistical information.
+
